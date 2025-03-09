@@ -1,5 +1,5 @@
 First file SOME TEXT FROM NEW FEATURE BRANCH text
 
-Also changed in the Main2 branch.
+Also changed in the Feature branch.
 
 Also changed in the Feature branch.
