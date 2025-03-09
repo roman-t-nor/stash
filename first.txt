@@ -1,6 +1,1 @@
-First file SOME TEXT FROM NEW FEATURE BRANCH text
-
-Also changed in the 111 branch.
-Also changed in the 222 branch.
-
-Also changed in the Feature branch.
+222
