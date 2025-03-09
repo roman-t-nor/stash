@@ -1,1 +1,1 @@
-First file text
+First file SOME TEXT FROM NEW FEATURE BRANCH text
